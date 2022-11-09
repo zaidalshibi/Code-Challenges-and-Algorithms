@@ -1,1 +1,3 @@
-// Add your whiteboard image here
+# WhiteBoarding
+
+![challenge02](./challenge02.jpg)
